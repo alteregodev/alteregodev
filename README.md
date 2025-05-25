@@ -7,7 +7,7 @@
 
 🔣 My main programming languages are: Python, JavaScript, and HTML
 
-📊 Currently working on nothing
+📊 Currently working on: A website parser
 
 💬 If you need to contact me, please dm me in discord (websecured 1082602968441966593)
 
@@ -20,6 +20,6 @@
 
 🔣 Мои основные языки программирования это: Python, JavaScript и HTML
 
-📊 На данный момент ни над чем не работаю
+📊 На данный момент работаю над парсером сайтов
 
 💬 Если вам нужен контакт со мной, напишите мне в лс в дискорде (websecured 1082602968441966593)
