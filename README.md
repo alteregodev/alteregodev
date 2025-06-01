@@ -7,7 +7,7 @@
 
 📊 Currently working on: nothing
 
-💬 If you need to contact me, please dm me in discord (websecured 1082602968441966593)
+💬 If you need to contact me, please dm me in discord
 
 # 🇷🇺
 
@@ -18,4 +18,4 @@
 
 📊 На данный момент ни над чем не работаю
 
-💬 Если вам нужен контакт со мной, напишите мне в лс в дискорде (websecured 1082602968441966593)
+💬 Если вам нужен контакт со мной, напишите мне в лс в дискорде
