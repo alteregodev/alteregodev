@@ -1,4 +1,4 @@
-# ᴇɴ
+# EN
 
 ### Hello!
 👤 My name is alterego, i am an enthusiast in cybersecurity and OSINT.
@@ -10,7 +10,7 @@
 💬 If you need to contact me, use Tox ID 966DF28E314511747C9702C6BC8DBD42362A3682CA61FC4E3929CA828DC03D710CCBD70D9517
 
 
-# 🇷🇺
+# RU
 
 ### Привет!
 👤 Меня зовут alterego, я любитель в сфере киберпезопасности и ОСИНТ
