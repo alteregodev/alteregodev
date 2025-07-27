@@ -5,7 +5,7 @@
 
 💻 I am also learning programming at the moment.
 
-📊 Currently working on: alteregodev/collector
+📊 Currently working on: other stuff
 
 💬 If you need to contact me, use Tox ID 966DF28E314511747C9702C6BC8DBD42362A3682CA61FC4E3929CA828DC03D710CCBD70D9517
 
@@ -17,6 +17,6 @@
 
 💻 На данный момент, я изучаю программирование.
 
-📊 Работаю над alteregodev/collector
+📊 Сейчас работаю над другими вещами
 
 💬 Если вам нужен контакт со мной, используйте Tox ID 966DF28E314511747C9702C6BC8DBD42362A3682CA61FC4E3929CA828DC03D710CCBD70D9517
