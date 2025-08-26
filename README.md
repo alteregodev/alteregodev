@@ -1,7 +1,7 @@
 ## Hello!
 - 👤 My name is alterego, I am an enthusiast in cybersecurity and OSINT.
 
-- 💬 If you need to contact me, use Tox ID `966DF28E314511747C9702C6BC8DBD42362A3682CA61FC4E3929CA828DC03D710CCBD70D9517`
+- 💬 If you need to contact me, use this email - truth-dork-haunt@duck.com
 
 --- 
 
